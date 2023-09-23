@@ -17,11 +17,11 @@ public class SpringCloudConfigServerApplication {
 	 * 		Dependencies: spring-cloud-config-server, Dev tools
 	 * 
 	 * 		Call Limit-Service: http://localhost:8888/limits-service/default
-	 * 							http://localhost:8888/limits-service/qa
-	 * 							http://localhost:8888/limits-service/dev
+	 * 				    http://localhost:8888/limits-service/qa
+	 * 				    http://localhost:8888/limits-service/dev
 	 * 
 	 * 		Call Microservice-X: http://localhost:8888/microservice-x-service/default
-	 * 							 http://localhost:8888/microservice-x-service/qa
+	 * 				     http://localhost:8888/microservice-x-service/qa
 	 *                           http://localhost:8888/microservice-x-service/dev
 	 *                           
 	 *      Call Microservice-Y: http://localhost:8888/microservice-y-service/default
