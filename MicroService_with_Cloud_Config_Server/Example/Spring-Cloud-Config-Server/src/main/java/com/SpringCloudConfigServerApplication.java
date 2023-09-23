@@ -26,7 +26,7 @@ public class SpringCloudConfigServerApplication {
 	 *                           
 	 *      	Call Microservice-Y: http://localhost:8888/microservice-y-service/default
 	 *      			     http://localhost:8888/microservice-y-service/qa
-	 *      					 http://localhost:8888/microservice-y-service/dev
+	 *      			     http://localhost:8888/microservice-y-service/dev
 	 */
 
 }
