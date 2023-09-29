@@ -25,7 +25,7 @@ Add Dependencies:
 
 
 Step 2: Open Docker.
-Step 3: Run ZIPKIN
+Step 3: Run ZIPKIN as Docker Container:
 	docker run -p 9411:9411 openzipkin/zipkin:2.23
 
 Step 4: Open Chrome: localhost:9411
